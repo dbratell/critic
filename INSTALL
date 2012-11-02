@@ -31,11 +31,11 @@ Critic depends on the following software packages:
 
   * PostgreSQL (8.4 or later)
 
-  * Apache (2.2 or later; 2.4 hasn't been tested)
+  * Apache (2.2 or later; 2.4 has not been tested)
 
   * Git
 
-  * Python (2.7 or later; 3.x not supported)
+  * Python (2.7 or later; 3.x is not supported)
 
   * Non-standard Python modules:
 
